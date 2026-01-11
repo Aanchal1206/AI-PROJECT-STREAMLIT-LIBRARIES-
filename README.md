@@ -52,10 +52,10 @@ It uses **Natural Language Processing (NLP)** and **TF-IDF similarity** to match
 
 ## 📂 Project Structure
 i-resume-screener/
+│──   Readme.md
 │── app.py
 │── report.pdf
 │── presentation.pptx
-│── README.md
 
 
 ---
