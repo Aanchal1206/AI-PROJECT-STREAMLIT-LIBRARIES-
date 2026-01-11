@@ -70,27 +70,3 @@ i-resume-screener/
 6. Best job role and improvement tips are displayed  
 
 
-
----
-
-## ✅ WHAT TO DO NEXT (IMPORTANT)
-
-1️⃣ Save this as `README.md`  
-2️⃣ Commit to your **AI Resume Screener repo**  
-3️⃣ Pin this project on your GitHub profile  
-4️⃣ Mention **“Report & Presentation Included”** in repo description  
-
----
-
-## 🔥 This project is STRONG because:
-✔ Uses AI + NLP  
-✔ Streamlit web app  
-✔ Practical career use-case  
-✔ Report + PPT (huge academic value)  
-
-If you want next, I can help you:
-- 📌 Write **resume bullets** for this project  
-- 📌 Create **GitHub repo description & topics**  
-- 📌 Prepare **interview explanation (simple words)**  
-
-Just tell me what you want next 🚀
